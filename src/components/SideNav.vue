@@ -3,10 +3,10 @@
     <v-list>
       <v-list-item>
         <v-list-item-avatar>
-          <img src="https://avatars2.githubusercontent.com/u/1363954?s=460&v=4">
+          <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg">
         </v-list-item-avatar>
         <v-list-item-content>
-          <v-list-item-title>Kazuya Kojima</v-list-item-title>
+          <v-list-item-title>Kazuma Ishigami</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
 
